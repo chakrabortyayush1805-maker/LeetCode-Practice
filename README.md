@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
