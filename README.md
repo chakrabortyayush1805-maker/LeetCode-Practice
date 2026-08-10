@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
