@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
