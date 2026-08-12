@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
