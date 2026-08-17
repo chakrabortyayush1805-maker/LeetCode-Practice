@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2029-stone-game-ix/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -241,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
