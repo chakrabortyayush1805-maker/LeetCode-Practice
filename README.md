@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sliding Window
@@ -201,11 +203,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
