@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2029-stone-game-ix/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
