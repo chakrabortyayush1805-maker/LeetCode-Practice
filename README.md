@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sliding Window
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
