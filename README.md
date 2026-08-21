@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
