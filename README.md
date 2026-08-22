@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
