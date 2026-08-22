@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
