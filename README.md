@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [1927-sum-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Counting
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
