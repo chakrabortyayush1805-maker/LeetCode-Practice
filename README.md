@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
