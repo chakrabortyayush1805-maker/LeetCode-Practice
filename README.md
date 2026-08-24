@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -309,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
