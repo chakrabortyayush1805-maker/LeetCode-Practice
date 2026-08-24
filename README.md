@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [1927-sum-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
