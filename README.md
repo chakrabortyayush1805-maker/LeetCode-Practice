@@ -205,10 +205,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -351,4 +353,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
