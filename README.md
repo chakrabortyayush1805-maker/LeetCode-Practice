@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0061-rotate-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0061-rotate-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
