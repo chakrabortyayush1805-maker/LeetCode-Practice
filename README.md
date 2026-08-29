@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
