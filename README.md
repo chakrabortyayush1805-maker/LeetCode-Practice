@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [1927-sum-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
