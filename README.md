@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0086-partition-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0086-partition-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Manacher
