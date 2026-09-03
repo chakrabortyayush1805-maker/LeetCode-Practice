@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0189-rotate-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0089-gray-code/) | Medium |
+| [0189-rotate-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
