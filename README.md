@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0190-reverse-bits](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0190-reverse-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Counting
