@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0091-decode-ways/) | Medium |
+| [0118-pascals-triangle](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0877-stone-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1510-stone-game-iv/) | Hard |
