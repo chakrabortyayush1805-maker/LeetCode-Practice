@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [1927-sum-game](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chakrabortyayush1805-maker/LeetCode-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Manacher
